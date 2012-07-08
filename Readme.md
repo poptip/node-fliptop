@@ -11,6 +11,7 @@ node-fliptop is a sleak and eloquent wrapper for the Fliptop API.
 Make sure you have a developer account with [Fliptop](http://dev.qwerly.com/) and have activated your api key.
 
 Try out the example:
+
 	node example.js your-api-key
 
 In general, you can make a query by simply providing the service and the handle:
@@ -42,4 +43,5 @@ In general, you can make a query by simply providing the service and the handle:
 	});
 * * *	
 Brought to you in part by: 
-	![dealwithit.jpg](http://i.imgur.com/xpvq3.jpg)
+
+![dealwithit.jpg](http://i.imgur.com/xpvq3.jpg)
