@@ -1,0 +1,19 @@
+{
+  "author": "Benjamin Lyaunzon <lyaunzon.b@gmail.com> (http://github.com/lyaunzbe)",
+  "name": "node-fliptop",
+  "description": "Fliptop API wrapper",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lyaunzbe/node-fliptop",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lyaunzbe/node-fliptop.git"
+  },
+  "engines": {
+    "node": ">= v0.8.0"
+  },
+  "main": "index",
+  "dependencies": {
+     "request" : ">=2.2.0"
+  },
+  "devDependencies": {}
+}
