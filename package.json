@@ -13,7 +13,7 @@
   },
   "main": "index",
   "dependencies": {
-     "request" : ">=2.2.0"
+    "request": "~2.9.203"
   },
   "devDependencies": {}
 }
