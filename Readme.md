@@ -53,7 +53,7 @@ Official docs are located at http://developer.fliptop.com/docs. Take the time to
 #License
 (The MIT License)
 
-Copyright (c) 2012 Benjamin Lyaunzon &lt;lyaunzon.b@gmail.com&gt;
+Copyright (c) 2012 Markover Inc. &lt;lyaunzon.b@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

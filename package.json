@@ -3,10 +3,10 @@
   "name": "node-fliptop",
   "description": "Fliptop API wrapper",
   "version": "0.0.1",
-  "homepage": "https://github.com/lyaunzbe/node-fliptop",
+  "homepage": "https://github.com/markover/node-fliptop",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lyaunzbe/node-fliptop.git"
+    "url": "git://github.com/markover/node-fliptop"
   },
   "engines": {
     "node": ">= v0.8.0"
