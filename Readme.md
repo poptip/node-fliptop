@@ -16,30 +16,24 @@ Try out the example:
 
 In general, you can make a query by simply providing the service and the handle:
 
-	var top = require('node-fliptop')('your-api-key');
+	var fliptop = require('node-fliptop')('your-api-key');
 
-	top.flip('email','john@doe.com', function (err, data){
-		if(err){
-			console.log(err);
-		}else{
-		 	console.log(data);
-		}
+	fliptop.email('john@doe.com', function (err, data){
+    if (err) throw err;
+
+    console.log(data);
 	});
 
-	top.flip('twitter','rebeccablack', function (err, data){
-		if(err){
-			console.log(err);
-		}else{
-		 	console.log(data);
-		}
+	fliptop.twitter('rebeccablack', function (err, data){
+    if (err) throw err;
+
+    console.log(data);
 	});
 
-	top.flip('facebook','zuck', function (err, data){
-		if(err){
-			console.log(err);
-		}else{
-		 	console.log(data);
-		}
+	fliptop.facebook('zuck', function (err, data){
+    if (err) throw err;
+
+    console.log(data);
 	});
 
 * * *
