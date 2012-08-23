@@ -8,6 +8,9 @@
     "type": "git",
     "url": "git://github.com/markover/node-fliptop"
   },
+  "contributors": [
+    "Roly Fentanes (https://github.com/fent)"
+  ],
   "engines": {
     "node": ">= v0.8.0"
   },
