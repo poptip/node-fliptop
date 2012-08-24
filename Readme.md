@@ -1,4 +1,4 @@
-# node-fliptop
+# node-fliptop [![Build Status](https://secure.travis-ci.org/markover/node-fliptop.png)](http://travis-ci.org/markover/node-fliptop)
 
 
 
