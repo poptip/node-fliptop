@@ -5,23 +5,23 @@
 
 var fliptop = require('./lib/fliptop.js')(process.argv[2]);
 
-fliptop.email('robbie@fliptop.com', function(err, data){
-  if (err) throw err;
+fliptop.email('jon@gmail.com', function(err, data){
+  if (err) console.log(err);
 
-	console.log('Query Type: Email\n', JSON.stringify(data,true,4));
+	console.log('Query Type: Email\n', JSON.stringify(data,true,2));
 	console.log('.....................\n');
 });
 
-fliptop.twitter('fliptop', function(err, data){
+fliptop.twitter('rebeccablack', function(err, data){
   if (err) throw err;
 
-	console.log('Query Type: Twitter\n', JSON.stringify(data,true,4));
+	console.log('Query Type: Twitter\n', JSON.stringify(data,true,2));
 	console.log('.....................\n');
 });
 
-fliptop.facebook('camplejohn', function(err, data){
-  if (err) throw err;
+fliptop.facebook('zuck', function(err, data){
+  if (err) console.log(err);
 
-	console.log('Query Type: Facebook\n', JSON.stringify(data,true,4));
+	console.log('Query Type: Facebook\n', JSON.stringify(data,true,2));
 	console.log('.....................\n');
 });
