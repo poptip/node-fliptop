@@ -14,7 +14,10 @@
   "engines": {
     "node": ">= v0.8.0"
   },
-  "main": "lib/fiptop.js",
+  "main": "lib/fliptop.js",
+  "scripts": {
+    "test": "mocha -R spec test/*-test.js"
+  },
   "dependencies": {
     "request": "~2.9.203"
   },
