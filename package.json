@@ -2,7 +2,7 @@
   "author": "Benjamin Lyaunzon <lyaunzon.b@gmail.com> (http://github.com/lyaunzbe)",
   "name": "node-fliptop",
   "description": "Fliptop API wrapper",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/markover/node-fliptop",
   "repository": {
     "type": "git",
